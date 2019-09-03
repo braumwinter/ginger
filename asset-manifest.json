@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/braumwinter/ginger/static/css/main.2cce8147.chunk.css",
-    "main.js": "/braumwinter/ginger/static/js/main.500cdd67.chunk.js",
-    "main.js.map": "/braumwinter/ginger/static/js/main.500cdd67.chunk.js.map",
-    "runtime~main.js": "/braumwinter/ginger/static/js/runtime~main.96cc3000.js",
-    "runtime~main.js.map": "/braumwinter/ginger/static/js/runtime~main.96cc3000.js.map",
-    "static/js/2.b13d4f25.chunk.js": "/braumwinter/ginger/static/js/2.b13d4f25.chunk.js",
-    "static/js/2.b13d4f25.chunk.js.map": "/braumwinter/ginger/static/js/2.b13d4f25.chunk.js.map",
-    "index.html": "/braumwinter/ginger/index.html",
-    "precache-manifest.e6e0ffd888ca3dd0f08406caf90deb73.js": "/braumwinter/ginger/precache-manifest.e6e0ffd888ca3dd0f08406caf90deb73.js",
-    "service-worker.js": "/braumwinter/ginger/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/braumwinter/ginger/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/braumwinter/ginger/static/media/logo.5d5d9eef.svg"
+    "main.css": "/ginger/static/css/main.2cce8147.chunk.css",
+    "main.js": "/ginger/static/js/main.ddcf54ef.chunk.js",
+    "main.js.map": "/ginger/static/js/main.ddcf54ef.chunk.js.map",
+    "runtime~main.js": "/ginger/static/js/runtime~main.4a3dacb4.js",
+    "runtime~main.js.map": "/ginger/static/js/runtime~main.4a3dacb4.js.map",
+    "static/js/2.b13d4f25.chunk.js": "/ginger/static/js/2.b13d4f25.chunk.js",
+    "static/js/2.b13d4f25.chunk.js.map": "/ginger/static/js/2.b13d4f25.chunk.js.map",
+    "index.html": "/ginger/index.html",
+    "precache-manifest.45897af292348acaec0dc9c4f1a9c165.js": "/ginger/precache-manifest.45897af292348acaec0dc9c4f1a9c165.js",
+    "service-worker.js": "/ginger/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/ginger/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/ginger/static/media/logo.5d5d9eef.svg"
   }
 }
